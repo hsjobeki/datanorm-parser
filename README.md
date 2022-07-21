@@ -16,3 +16,4 @@ So i decided to reverse-engineer the DATANORM format and started a first version
 
 - https://www.datanorm.de/
 - https://de.wikipedia.org/wiki/Datanorm
+- https://github.com/RaphaelKimmig/datanorm_writer
